@@ -1,0 +1,1088 @@
+{
+  "rs4680": {
+    "id": "rs4680",
+    "gen": {
+      "es": "COMT V158M",
+      "en": "COMT V158M"
+    },
+    "funcion": {
+      "es": "Degradación de las catecolaminas (dopamina, epinefrina, norepinefrina). AA (Worrier), GG(Warrior)",
+      "en": "Degradation of catecholamines (dopamine, epinephrine, norepinephrine). AA (Worrier), GG(Warrior)"
+    },
+    "consecuencias": {
+      "es": "Alteraciones del estado de ánimo, ansiedad",
+      "en": "Mood alterations, anxiety"
+    },
+    "suplementos": {
+      "es": "Magnesio: 200-400 mg/día",
+      "en": "Magnesium: 200-400 mg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Cafeína",
+      "en": "Caffeine"
+    },
+    "comida": {
+      "es": "Frutas, vegetales, alimentos ricos en flavonoides",
+      "en": "Fruits, vegetables, foods rich in flavonoids"
+    },
+    "evitar_comida": {
+      "es": "Alimentos ricos en cafeína",
+      "en": "Caffeine-rich foods"
+    },
+    "estilo_vida": {
+      "es": "Meditación, técnicas de relajación",
+      "en": "Meditation, relaxation techniques"
+    },
+    "evitar_medicacion": {
+      "es": "Inhibidores de la MAO",
+      "en": "MAO inhibitors"
+    },
+    "pruebas": {
+      "es": "Nivel de catecolaminas: 0-50 pg/mL",
+      "en": "Catecholamine level: 0-50 pg/mL"
+    },
+    "normal": "GG",
+    "heterocigoto": "AG",
+    "mutante": "AA"
+  },
+  "rs4633": {
+    "id": "rs4633",
+    "gen": {
+      "es": "COMT H62H",
+      "en": "COMT H62H"
+    },
+    "funcion": {
+      "es": "Degradación de las catecolaminas",
+      "en": "Catecholamine degradation"
+    },
+    "consecuencias": {
+      "es": "Ansiedad, sensibilidad al dolor",
+      "en": "Anxiety, pain sensitivity"
+    },
+    "suplementos": {
+      "es": "Magnesio, SAMe",
+      "en": "Magnesium, SAMe"
+    },
+    "evitar_suplementos": {
+      "es": "Cafeína",
+      "en": "Caffeine"
+    },
+    "comida": {
+      "es": "Frutas y vegetales",
+      "en": "Fruits and vegetables"
+    },
+    "evitar_comida": {
+      "es": "Cafeína y azúcar",
+      "en": "Caffeine and sugar"
+    },
+    "estilo_vida": {
+      "es": "Técnicas de relajación, ejercicio",
+      "en": "Relaxation techniques, exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Estimulantes",
+      "en": "Stimulants"
+    },
+    "pruebas": {
+      "es": "Catecolaminas en suero",
+      "en": "Serum catecholamines"
+    },
+    "normal": "CC",
+    "heterocigoto": "CT",
+    "mutante": "TT"
+  },
+  "rs769224": {
+    "id": "rs769224",
+    "gen": {
+      "es": "COMT P199P",
+      "en": "COMT P199P"
+    },
+    "funcion": {
+      "es": "Degradación de las catecolaminas",
+      "en": "Catecholamine degradation"
+    },
+    "consecuencias": {
+      "es": "Alteraciones del estado de ánimo",
+      "en": "Mood alterations"
+    },
+    "suplementos": {
+      "es": "Magnesio, SAMe",
+      "en": "Magnesium, SAMe"
+    },
+    "evitar_suplementos": {
+      "es": "Cafeína",
+      "en": "Caffeine"
+    },
+    "comida": {
+      "es": "Frutas y vegetales",
+      "en": "Fruits and vegetables"
+    },
+    "evitar_comida": {
+      "es": "Cafeína y azúcar",
+      "en": "Caffeine and sugar"
+    },
+    "estilo_vida": {
+      "es": "Técnicas de relajación, ejercicio",
+      "en": "Relaxation techniques, exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Estimulantes",
+      "en": "Stimulants"
+    },
+    "pruebas": {
+      "es": "Catecolaminas en suero",
+      "en": "Serum catecholamines"
+    },
+    "normal": "GG",
+    "heterocigoto": "AG",
+    "mutante": "AA"
+  },
+  "rs1544410": {
+    "id": "rs1544410",
+    "gen": {
+      "es": "VDR Bsm",
+      "en": "VDR Bsm"
+    },
+    "funcion": {
+      "es": "Metabolismo de la vitamina D",
+      "en": "Vitamin D metabolism"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina D, problemas óseos",
+      "en": "Vitamin D deficiency, bone problems"
+    },
+    "suplementos": {
+      "es": "Vitamina D: 2000-4000 IU/día",
+      "en": "Vitamin D: 2000-4000 IU/day"
+    },
+    "evitar_suplementos": {
+      "es": "Calcio en exceso",
+      "en": "Excess calcium"
+    },
+    "comida": {
+      "es": "Pescado, huevos, hongos",
+      "en": "Fish, eggs, mushrooms"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Exposición al sol, ejercicio",
+      "en": "Sun exposure, exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Corticoides",
+      "en": "Corticosteroids"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina D: 20-50 ng/mL",
+      "en": "Vitamin D level: 20-50 ng/mL"
+    },
+    "normal": "CC",
+    "heterocigoto": "CT",
+    "mutante": "TT"
+  },
+  "rs731236": {
+    "id": "rs731236",
+    "gen": {
+      "es": "VDR Taq",
+      "en": "VDR Taq"
+    },
+    "funcion": {
+      "es": "Metabolismo de la vitamina D",
+      "en": "Vitamin D metabolism"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina D, problemas óseos",
+      "en": "Vitamin D deficiency, bone problems"
+    },
+    "suplementos": {
+      "es": "Vitamina D: 2000-4000 IU/día",
+      "en": "Vitamin D: 2000-4000 IU/day"
+    },
+    "evitar_suplementos": {
+      "es": "Calcio en exceso",
+      "en": "Excess calcium"
+    },
+    "comida": {
+      "es": "Pescado, huevos, hongos",
+      "en": "Fish, eggs, mushrooms"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Exposición al sol, ejercicio",
+      "en": "Sun exposure, exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Corticoides",
+      "en": "Corticosteroids"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina D: 20-50 ng/mL",
+      "en": "Vitamin D level: 20-50 ng/mL"
+    },
+    "normal": "TT",
+    "heterocigoto": "CT",
+    "mutante": "AA"
+  },
+  "rs6323": {
+    "id": "rs6323",
+    "gen": {
+      "es": "MAO-A R297R",
+      "en": "MAO-A R297R"
+    },
+    "funcion": {
+      "es": "Degradación de monoaminas (serotonina, dopamina)",
+      "en": "Degradation of monoamines (serotonin, dopamine)"
+    },
+    "consecuencias": {
+      "es": "Depresión, ansiedad",
+      "en": "Depression, anxiety"
+    },
+    "suplementos": {
+      "es": "Vitamina B2, B6",
+      "en": "Vitamin B2, B6"
+    },
+    "evitar_suplementos": {
+      "es": "Cafeína",
+      "en": "Caffeine"
+    },
+    "comida": {
+      "es": "Frutas, vegetales, alimentos ricos en triptófano",
+      "en": "Fruits, vegetables, foods rich in tryptophan"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados, cafeína",
+      "en": "Processed foods, caffeine"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular, técnicas de manejo del estrés",
+      "en": "Regular exercise, stress management techniques"
+    },
+    "evitar_medicacion": {
+      "es": "Inhibidores de la MAO",
+      "en": "MAO inhibitors"
+    },
+    "pruebas": {
+      "es": "Nivel de serotonina: 101-283 ng/mL",
+      "en": "Serotonin level: 101-283 ng/mL"
+    },
+    "normal": "GG",
+    "heterocigoto": "AG",
+    "mutante": "AA"
+  },
+  "rs6311": {
+      "gen": {
+      "es": "HTR2A",
+      "en": "HTR2A"
+    },
+    "funcion": {
+      "es": "Receptor de serotonina",
+      "en": "Serotonin receptor"
+    },
+    "consecuencias": {
+      "es": "Depresión, ansiedad",
+      "en": "Depression, anxiety"
+    },
+    "suplementos": {
+      "es": "Vitamina B2, B6",
+      "en": "Vitamin B2, B6"
+    },
+    "evitar_suplementos": {
+      "es": "Cafeína",
+      "en": "Caffeine"
+    },
+    "comida": {
+      "es": "Frutas, vegetales, alimentos ricos en triptófano",
+      "en": "Fruits, vegetables, foods rich in tryptophan"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados, cafeína",
+      "en": "Processed foods, caffeine"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular, técnicas de manejo del estrés",
+      "en": "Regular exercise, stress management techniques"
+    },
+    "evitar_medicacion": {
+      "es": "Inhibidores de la MAO",
+      "en": "MAO inhibitors"
+    },
+    "pruebas": {
+      "es": "Nivel de serotonina: 101-283 ng/mL",
+      "en": "Serotonin level: 101-283 ng/mL"
+    },
+    "normal": "GG",
+    "heterocigoto": "AG",
+    "mutante": "AA"
+  },
+  "rs3741049": {
+    "gen": {
+      "es": "ACAT1-02",
+      "en": "ACAT1-02"
+    },	
+    "funcion": {
+      "es": "Metabolismo de grasas y proteínas",
+      "en": "Metabolism of fats and proteins"
+    },
+    "consecuencias": {
+      "es": "Problemas metabólicos",
+      "en": "Metabolic problems"
+    },
+    "suplementos": {
+      "es": "Coenzima Q10, L-carnitina",
+      "en": "Coenzyme Q10, L-carnitine"
+    },
+    "evitar_suplementos": {
+      "es": "Grasas trans",
+      "en": "Trans fats"
+    },
+    "comida": {
+      "es": "Carnes magras, nueces, semillas",
+      "en": "Lean meats, nuts, seeds"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados, azúcares refinados",
+      "en": "Processed foods, refined sugars"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Estatinas",
+      "en": "Statins"
+    },
+    "pruebas": {
+      "es": "Perfil lipídico",
+      "en": "Lipid profile"
+    },
+    "normal": "CC",
+    "heterocigoto": "CT",
+    "mutante": "TT"
+  },
+  "rs1801133": {
+    "gen": {
+      "es": "MTHFR C677T",
+      "en": "MTHFR C677T"
+    },	
+    "funcion": {
+      "es": "Conversión de homocisteína a metionina",
+      "en": "Conversion of homocysteine to methionine"
+    },
+    "consecuencias": {
+      "es": "Aumento de homocisteína, riesgo cardiovascular",
+      "en": "Increased homocysteine, cardiovascular risk"
+    },
+    "suplementos": {
+      "es": "Folato: 400-800 mcg/día",
+      "en": "Folate: 400-800 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Ácido fólico sintético",
+      "en": "Synthetic folic acid"
+    },
+    "comida": {
+      "es": "Verduras de hoja verde, legumbres",
+      "en": "Leafy green vegetables, legumes"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados con ácido fólico",
+      "en": "Processed foods with folic acid"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular, manejo del estrés",
+      "en": "Regular exercise, stress management"
+    },
+    "evitar_medicacion": {
+      "es": "Metotrexato",
+      "en": "Methotrexate"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": ["CC", "GG"],
+    "heterocigoto": "CT",
+    "mutante": "TT"
+  },
+  "rs4846049": {
+    "gen": {
+      "es": "MTHFR 03 P39P",
+      "en": "MTHFR 03 P39P"
+    },	
+    "funcion": {
+      "es": "Conversión de homocisteína a metionina",
+      "en": "Conversion of homocysteine to methionine"
+    },
+    "consecuencias": {
+      "es": "Aumento de homocisteína, problemas cardiovasculares",
+      "en": "Increased homocysteine, cardiovascular problems"
+    },
+    "suplementos": {
+      "es": "Metilfolato: 400-800 mcg/día",
+      "en": "Methylfolate: 400-800 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Ácido fólico sintético",
+      "en": "Synthetic folic acid"
+    },
+    "comida": {
+      "es": "Verduras de hoja verde, frutas cítricas",
+      "en": "Leafy green vegetables, citrus fruits"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio, manejo del estrés",
+      "en": "Exercise, stress management"
+    },
+    "evitar_medicacion": {
+      "es": "Metotrexato",
+      "en": "Methotrexate"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "GG",
+    "heterocigoto": "GT",
+    "mutante": "TT"
+  },
+  "rs1801131": {
+    "gen": {
+      "es": "MTHFR A1298C",
+      "en": "MTHFR A1298C"
+    },	
+    "funcion": {
+      "es": "Conversión de homocisteína a metionina",
+      "en": "Conversion of homocysteine to methionine"
+    },
+    "consecuencias": {
+      "es": "Aumento de homocisteína, problemas neurológicos",
+      "en": "Increased homocysteine, neurological problems"
+    },
+    "suplementos": {
+      "es": "Folato: 400-800 mcg/día",
+      "en": "Folate: 400-800 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Ácido fólico sintético",
+      "en": "Synthetic folic acid"
+    },
+    "comida": {
+      "es": "Espinacas, brócoli",
+      "en": "Spinach, broccoli"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Reducir el estrés, ejercicio regular",
+      "en": "Stress reduction, regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metotrexato",
+      "en": "Methotrexate"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": ["AA", "TT"],
+    "heterocigoto": ["AC", "GT"],
+    "mutante": "CC"
+  },
+  "rs1805087": {
+    "gen": {
+      "es": "MTR A2756G",
+      "en": "MTR A2756G"
+    },	
+    "funcion": {
+      "es": "Conversión de homocisteína a metionina",
+      "en": "Conversion of homocysteine to methionine"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina B12, problemas neurológicos",
+      "en": "Vitamin B12 deficiency, neurological problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B12: 1000 mcg/día",
+      "en": "Vitamin B12: 1000 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, huevos, productos lácteos",
+      "en": "Meats, eggs, dairy products"
+    },
+    "evitar_comida": {
+      "es": "Alcohol, alimentos procesados",
+      "en": "Alcohol, processed foods"
+    },
+    "estilo_vida": {
+      "es": "Reducción de estrés, ejercicio moderado",
+      "en": "Stress reduction, moderate exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina B12: 200-900 pg/mL",
+      "en": "Vitamin B12 level: 200-900 pg/mL"
+    },
+    "normal": "AA",
+    "heterocigoto": "AG",
+    "mutante": "GG"
+  },
+  "rs1801394": {
+    "gen": {
+      "es": "MTRR A66G",
+      "en": "MTRR A66G"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina sintasa",
+      "en": "Methionine synthase regeneration"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina B12, problemas neurológicos",
+      "en": "Vitamin B12 deficiency, neurological problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B12: 1000 mcg/día",
+      "en": "Vitamin B12: 1000 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, huevos, productos lácteos",
+      "en": "Meats, eggs, dairy products"
+    },
+    "evitar_comida": {
+      "es": "Alcohol, alimentos procesados",
+      "en": "Alcohol, processed foods"
+    },
+    "estilo_vida": {
+      "es": "Reducción de estrés, ejercicio moderado",
+      "en": "Stress reduction, moderate exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina B12: 200-900 pg/mL",
+      "en": "Vitamin B12 level: 200-900 pg/mL"
+    },
+    "normal": "AA",
+    "heterocigoto": "AG",
+    "mutante": "GG"
+  },
+  "rs162036": {
+    "gen": {
+      "es": "MTRR K350A",
+      "en": "MTRR K350A"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina sintasa",
+      "en": "Methionine synthase regeneration"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina B12, problemas neurológicos",
+      "en": "Vitamin B12 deficiency, neurological problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B12: 1000 mcg/día",
+      "en": "Vitamin B12: 1000 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, huevos, productos lácteos",
+      "en": "Meats, eggs, dairy products"
+    },
+    "evitar_comida": {
+      "es": "Alcohol, alimentos procesados",
+      "en": "Alcohol, processed foods"
+    },
+    "estilo_vida": {
+      "es": "Reducción de estrés, ejercicio moderado",
+      "en": "Stress reduction, moderate exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina B12: 200-900 pg/mL",
+      "en": "Vitamin B12 level: 200-900 pg/mL"
+    },
+    "normal": "AA",
+    "heterocigoto": "AG",
+    "mutante": "GG"
+  },
+  "rs1802059": {
+    "gen": {
+      "es": "MTRR A664A",
+      "en": "MTRR A664A"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina sintasa",
+      "en": "Methionine synthase regeneration"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina B12, problemas neurológicos",
+      "en": "Vitamin B12 deficiency, neurological problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B12: 1000 mcg/día",
+      "en": "Vitamin B12: 1000 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, huevos, productos lácteos",
+      "en": "Meats, eggs, dairy products"
+    },
+    "evitar_comida": {
+      "es": "Alcohol, alimentos procesados",
+      "en": "Alcohol, processed foods"
+    },
+    "estilo_vida": {
+      "es": "Reducción de estrés, ejercicio moderado",
+      "en": "Stress reduction, moderate exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina B12: 200-900 pg/mL",
+      "en": "Vitamin B12 level: 200-900 pg/mL"
+    },
+    "normal": "AA",
+    "heterocigoto": "AG",
+    "mutante": "GG"
+  },
+  "rs2287780": {
+    "gen": {
+      "es": "MTRR R415T",
+      "en": "MTRR R415T"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina sintasa",
+      "en": "Methionine synthase regeneration"
+    },
+    "consecuencias": {
+      "es": "Deficiencia de vitamina B12, problemas neurológicos",
+      "en": "Vitamin B12 deficiency, neurological problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B12: 1000 mcg/día",
+      "en": "Vitamin B12: 1000 mcg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, huevos, productos lácteos",
+      "en": "Meats, eggs, dairy products"
+    },
+    "evitar_comida": {
+      "es": "Alcohol, alimentos procesados",
+      "en": "Alcohol, processed foods"
+    },
+    "estilo_vida": {
+      "es": "Reducción de estrés, ejercicio moderado",
+      "en": "Stress reduction, moderate exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de vitamina B12: 200-900 pg/mL",
+      "en": "Vitamin B12 level: 200-900 pg/mL"
+    },
+    "normal": "CC",
+    "heterocigoto": "CT",
+    "mutante": "TT"
+  },
+  "rs567754": {
+    "gen": {
+      "es": "BHMT-02",
+      "en": "BHMT-02"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina a partir de homocisteína",
+      "en": "Regeneration of methionine from homocysteine"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína",
+      "en": "Elevated homocysteine"
+    },
+    "suplementos": {
+      "es": "Betaina: 500 mg/día",
+      "en": "Betaine: 500 mg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, granos enteros",
+      "en": "Meats, whole grains"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "CC",
+    "heterocigoto": "CT",
+    "mutante": "TT"
+  },
+  "rs651852": {
+    "gen": {
+      "es": "BHMT-08",
+      "en": "BHMT-08"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina a partir de homocisteína",
+      "en": "Regeneration of methionine from homocysteine"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína",
+      "en": "Elevated homocysteine"
+    },
+    "suplementos": {
+      "es": "Betaina: 500 mg/día",
+      "en": "Betaine: 500 mg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, granos enteros",
+      "en": "Meats, whole grains"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "AA",
+    "heterocigoto": ["AG","CT"],
+    "mutante": "GG"
+  },
+  "rs617219": {
+    "gen": {
+      "es": "BHMT-04",
+      "en": "BHMT-04"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina a partir de homocisteína",
+      "en": "Regeneration of methionine from homocysteine"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína",
+      "en": "Elevated homocysteine"
+    },
+    "suplementos": {
+      "es": "Betaina: 500 mg/día",
+      "en": "Betaine: 500 mg/day"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, granos enteros",
+      "en": "Meats, whole grains"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "AA",
+    "heterocigoto": "AC",
+    "mutante": "CC"
+  },
+  "rs819134": {
+    "gen": {
+      "es": "AHCY-02",
+      "en": "AHCY-02"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina",
+      "en": "Methionine regeneration"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína",
+      "en": "Elevated homocysteine"
+    },
+    "suplementos": {
+      "es": "Vitamina B12, ácido fólico",
+      "en": "Vitamin B12, folic acid"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, verduras de hoja verde",
+      "en": "Meats, leafy green vegetables"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": ["AA","TT"],
+    "heterocigoto": "AG",
+    "mutante": "GG"
+  },
+  "rs819171": {
+    "gen": {
+      "es": "AHCY-19",
+      "en": "AHCY-19"
+    },	
+    "funcion": {
+      "es": "Regeneración de la metionina",
+      "en": "Methionine regeneration"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína",
+      "en": "Elevated homocysteine"
+    },
+    "suplementos": {
+      "es": "Vitamina B12, ácido fólico",
+      "en": "Vitamin B12, folic acid"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, verduras de hoja verde",
+      "en": "Meats, leafy green vegetables"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "TT",
+    "heterocigoto": "CT",
+    "mutante": "CC"
+  },
+  "rs234706": {
+    "gen": {
+      "es": "CBS C699T",
+      "en": "CBS C699T"
+    },	
+    "funcion": {
+      "es": "Descomposición de la homocisteína",
+      "en": "Homocysteine breakdown"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína, problemas cardiovasculares",
+      "en": "Elevated homocysteine, cardiovascular problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B6, B12, ácido fólico",
+      "en": "Vitamin B6, B12, folic acid"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, verduras de hoja verde",
+      "en": "Meats, leafy green vegetables"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "AA",
+    "heterocigoto": "AG",
+    "mutante": "GG"
+  },
+  "rs1801181": {
+    "gen": {
+      "es": "CBS A360A",
+      "en": "CBS A360A"
+    },	
+    "funcion": {
+      "es": "Descomposición de la homocisteína",
+      "en": "Homocysteine breakdown"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína, problemas cardiovasculares",
+      "en": "Elevated homocysteine, cardiovascular problems"
+    },
+    "suplementos": {
+      "es": "Vitamina B6, B12, ácido fólico",
+      "en": "Vitamin B6, B12, folic acid"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, verduras de hoja verde",
+      "en": "Meats, leafy green vegetables"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": ["CC","GG"],
+    "heterocigoto": ["CT","AG"],
+    "mutante": ["TT","AA"]
+  },
+  "rs197927": {
+    "gen": {
+      "es": "SHMT1 C1420T",
+      "en": "SHMT1 C1420T"
+    },	
+    "funcion": {
+      "es": "Conversión de serina a glicina",
+      "en": "Conversión de serina a glicina"
+    },
+    "consecuencias": {
+      "es": "Elevación de homocisteína, problemas neurológicos",
+      "en": "Elevación de homocisteína, problemas neurológicos"
+    },
+    "suplementos": {
+      "es": "Vitamina B6, ácido fólico",
+      "en": "Vitamin B6, folic acid"
+    },
+    "evitar_suplementos": {
+      "es": "Alcohol",
+      "en": "Alcohol"
+    },
+    "comida": {
+      "es": "Carnes, verduras de hoja verde",
+      "en": "Meats, leafy green vegetables"
+    },
+    "evitar_comida": {
+      "es": "Alimentos procesados",
+      "en": "Processed foods"
+    },
+    "estilo_vida": {
+      "es": "Ejercicio regular",
+      "en": "Regular exercise"
+    },
+    "evitar_medicacion": {
+      "es": "Metformina",
+      "en": "Metformin"
+    },
+    "pruebas": {
+      "es": "Nivel de homocisteína: <15 µmol/L",
+      "en": "Homocysteine level: <15 µmol/L"
+    },
+    "normal": "GG",
+    "heterocigoto": "AG",
+    "mutante": "AA"
+  }
+}
