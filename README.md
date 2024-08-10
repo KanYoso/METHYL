@@ -4,12 +4,13 @@
 
 ## Description
 
-The application provides data on various genes involved in methylation, including functions, consequences of genetic variants, recommendations for supplements, foods, and lifestyle. The content is available in multiple languages and adapts to different user needs.
+The application provides 23andme RAW data analysis on various genes involved in methylation, including functions, consequences of genetic variants, recommendations for supplements, foods, and lifestyle. The content is available in multiple languages and adapts to different user needs.
 
 ## Features
 
+- **RAW Data Load**: Load 23andme RAWdata file to analyze your Methylation based on your genes.
 - **Genetic Data Visualization**: Access detailed information about various genes and their variants.
-- **Multilingual Support**: Available in multiple languages.
+- **Multilingual Support**: Available in multiple languages (EN,ES).
 - **Personalized Recommendations**: Information on supplements, foods, and lifestyle based on genetic variants.
 - **Recommended Tests**: Information on recommended clinical tests.
 
@@ -20,7 +21,7 @@ To run the application, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your_username/METHYL.git
+    git clone https://github.com/KanYoso/METHYL.git
     ```
 
 2. **Navigate to the project directory**:
@@ -40,12 +41,12 @@ To run the application, follow these steps:
 4. **Run the application**:
 
     ```bash
-    python app.py
+    streamlit run  app.py
     ```
 
 ## Usage
 
-Once the application is running, access the interface through your web browser at the address provided by the application. Explore genetic information by entering gene identifiers and access recommendations based on genetic variants.
+Once the application is running, access the interface through your web browser at the address provided by the application. You can change the language. Upload your 23andme RAW data file. Explore genetic information by entering gene identifiers and access recommendations based on genetic variants.
 
 ## Project Structure
 
@@ -105,7 +106,7 @@ Here is an example of how a segment of the `data.json` file is structured:
     "mutante": "AA"
   }
 }
-
+```
 ## Contributing
 
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
@@ -137,4 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or suggestions, please contact [your_email@domain.com](mailto:your_email@domain.com).
+For questions or suggestions, please contact [kanyoso92@gmail.com](mailto:kanyoso92@gmail.com).
