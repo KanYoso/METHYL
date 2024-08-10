@@ -10,7 +10,7 @@ La aplicación proporciona análisis de datos RAW de 23andme sobre varios genes 
 
 - **Carga de Datos RAW**: Carga el archivo RAW de 23andme para analizar la metilación basada en tus genes.
 - **Visualización de Datos Genéticos**: Accede a información detallada sobre varios genes y sus variantes.
-- **Soporte Multilingüe**: Disponible en varios idiomas ([EN](https://github.com/KanYoso/METHYL/README.md), [ES](https://github.com/KanYoso/METHYL/README.ES.md)).
+- **Soporte Multilingüe**: Disponible en varios idiomas ([EN]([https://github.com/KanYoso/METHYL/README.md](https://github.com/KanYoso/METHYL/blob/main/README.md)), [ES]([https://github.com/KanYoso/METHYL/README.ES.md](https://github.com/KanYoso/METHYL/blob/main/README.ES.md))).
 - **Recomendaciones Personalizadas**: Información sobre suplementos, alimentos y estilo de vida basada en variantes genéticas.
 - **Pruebas Recomendadas**: Información sobre pruebas clínicas recomendadas.
 
