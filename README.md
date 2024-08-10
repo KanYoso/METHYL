@@ -10,7 +10,7 @@ The application provides 23andme RAW data analysis on various genes involved in 
 
 - **RAW Data Load**: Load 23andme RAWdata file to analyze your Methylation based on your genes.
 - **Genetic Data Visualization**: Access detailed information about various genes and their variants.
-- **Multilingual Support**: Available in multiple languages (EN,ES).
+- **Multilingual Support**: Available in multiple languages  ([EN](https://github.com/KanYoso/METHYL/blob/main/README.md), [ES]([https://github.com/KanYoso/METHYL/README.ES.md](https://github.com/KanYoso/METHYL/blob/main/README.ES.md))).
 - **Personalized Recommendations**: Information on supplements, foods, and lifestyle based on genetic variants.
 - **Recommended Tests**: Information on recommended clinical tests.
 
