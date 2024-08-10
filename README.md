@@ -41,7 +41,7 @@ To run the application, follow these steps:
 4. **Run the application**:
 
     ```bash
-    streamlit run  app.py
+    streamlit run  app.py --server.enableXsrfProtection false
     ```
 
 ## Usage
