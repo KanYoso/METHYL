@@ -1,6 +1,8 @@
 # METHYL
 
 **METHYL** es una aplicación diseñada para analizar y proporcionar información sobre la variabilidad genética relacionada con el metabolismo de la metilación. Esta herramienta permite a los usuarios explorar información detallada sobre diversos genes y sus variantes, y cómo estas variantes pueden impactar la salud y el bienestar.
+La aplición examina los datos de su ADN en busca de mutaciones que se hayan relacionado con diversas enfermedades.
+No usar la aplicación con fines médicos.
 
 ## Descripción
 
